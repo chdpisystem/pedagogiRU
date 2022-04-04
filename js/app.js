@@ -49,16 +49,17 @@ const menu = [
     title: "Лариса Барисовна",
     category: "russ",
     price: "25лет",
-    img: "https://sun9-39.userapi.com/impg/TCFiOLP-M5PEtHdhSK6JWB3hFIyK-Q2Fv6JVyQ/sUK2GKlF63Y.jpg?size=604x604&quality=96&sign=cb95b30bc2f512dce30d5f3149d2639a&type=album",
+    img: "https://ltdfoto.ru/images/2022/03/30/zinaidaviktorovna.jpg",
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    more: `https://chdpisystem.github.io/zinaidaviktorovnaRU/index.html`
   },
   {
     id: 9,
     title: "Глара Анотаева",
     category: "physics",
-    more: "https://add0n.com/flashplayer.html?version=0.2.3&p=0.2.2&type=update",
+    more: `https://chdpisystem.github.io/zinaidaviktorovnaRU/index.html`,
     price: "27лет",
-    img: "http://sch216nsk.edu54.ru/uploads/teachers/logosh-darya-aleksandrovna.JPG",
+    img: "https://ltdfoto.ru/images/2022/03/30/zinaidaviktorovna.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   }, 
 ];
