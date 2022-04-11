@@ -63,7 +63,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   }, 
     { 
-    id: 1,
+    id: 10,
     title: "Айдаров, Еркин Бакитович",
     category: "math",
     price: "33года",
